@@ -1,0 +1,14 @@
+{
+    "angelhacks": {
+        "awscloudformation": {
+            "AuthRoleName": "meetngreet-angelhacks-20190629163936-authRole",
+            "UnauthRoleArn": "arn:aws:iam::240474001109:role/meetngreet-angelhacks-20190629163936-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::240474001109:role/meetngreet-angelhacks-20190629163936-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "meetngreet-angelhacks-20190629163936-deployment",
+            "UnauthRoleName": "meetngreet-angelhacks-20190629163936-unauthRole",
+            "StackName": "meetngreet-angelhacks-20190629163936",
+            "StackId": "arn:aws:cloudformation:us-east-1:240474001109:stack/meetngreet-angelhacks-20190629163936/2ba71390-9ac7-11e9-bba4-0a456a010dd4"
+        }
+    }
+}
